@@ -50,7 +50,4 @@ PD\_MMP8\_multimonics/
 * AutoDock Vina (default version, distributed with MGLTools 1.5.6)
 * GROMACS 2022
 
-## Contact
-
-Corresponding author: Hongyuan Zhang(18113619057@163.com)
 
