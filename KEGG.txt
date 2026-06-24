@@ -1,0 +1,12 @@
+category	subcategory	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+Metabolism	Energy metabolism	hsa00910	Nitrogen metabolism	2/22	17/8863	0.000782106316183611	0.066479036875607	0.0609219656816708	CA3/CA13	2
+Organismal Systems	Immune system	hsa04610	Complement and coagulation cascades	2/22	88/8863	0.0197931526545032	0.332485456031355	0.304692554133997	C1S/PLG	2
+Human Diseases	Cancer: overview	hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	2/22	90/8863	0.0206466655412774	0.332485456031355	0.304692554133997	LAT/PPP3R1	2
+Organismal Systems	Immune system	hsa04658	Th1 and Th2 cell differentiation	2/22	93/8863	0.0219555984156732	0.332485456031355	0.304692554133997	LAT/PPP3R1	2
+Human Diseases	Infectious disease: bacterial	hsa05150	Staphylococcus aureus infection	2/22	102/8863	0.026083831842953	0.332485456031355	0.304692554133997	C1S/PLG	2
+Organismal Systems	Immune system	hsa04659	Th17 cell differentiation	2/22	109/8863	0.0294967416383011	0.332485456031355	0.304692554133997	LAT/PPP3R1	2
+Metabolism	Global and overview maps	hsa01200	Carbon metabolism	2/22	117/8863	0.0336046657564511	0.332485456031355	0.304692554133997	PGP/ALDOC	2
+Organismal Systems	Immune system	hsa04660	T cell receptor signaling pathway	2/22	122/8863	0.0362805101967498	0.332485456031355	0.304692554133997	LAT/PPP3R1	2
+Metabolism	Metabolism of cofactors and vitamins	hsa00730	Thiamine metabolism	1/22	15/8863	0.0366218280807217	0.332485456031355	0.304692554133997	ALPI	1
+Metabolism	Nucleotide metabolism	hsa00230	Purine metabolism	2/22	128/8863	0.0395978285564095	0.332485456031355	0.304692554133997	NT5E/NUDT9	2
+Organismal Systems	Immune system	hsa04650	Natural killer cell mediated cytotoxicity	2/22	134/8863	0.0430275296040576	0.332485456031355	0.304692554133997	LAT/PPP3R1	2
