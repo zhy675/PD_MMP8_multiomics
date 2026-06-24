@@ -10,23 +10,23 @@ PD\_MMP8\_multimonics/
 
 ├── scripts/
 
-│ ├── MR.R # Mendelian randomization analysis (TwoSampleMR)
+│ ├── MR.R 
 
-│ ├── MROmics\_GO.R # GO enrichment analysis (clusterProfiler)
+│ ├── MROmics\_GO.R 
 
-│ ├── MROmics\_KEGG.R # KEGG enrichment analysis (clusterProfiler)
+│ ├── MROmics\_KEGG.R 
 
-│ └── MROmics\_drugEnrich.R # Drug repurposing analysis
+│ └── MROmics\_drugEnrich.R 
 
 ├── results/
 
-│ ├── MR.zip # MR analysis results (IVW estimates, sensitivity tests, instrument statistics)
+│ ├── MR.zip 
 
-│ ├── GO.txt # GO enrichment results
+│ ├── GO.txt 
 
-│ ├── KEGG.txt # KEGG enrichment results
+│ ├── KEGG.txt 
 
-│ └── DRUG.enrich.xls # Drug repurposing results
+│ └── DRUG.enrich.xls 
 
 ├── docking/
 
@@ -54,7 +54,4 @@ PD\_MMP8\_multimonics/
 * AutoDock Vina (default version, distributed with MGLTools 1.5.6)
 * GROMACS 2022
 
-## Contact
-
-Corresponding author: Hongyuan Zhang(18113619057@163.com)
 
